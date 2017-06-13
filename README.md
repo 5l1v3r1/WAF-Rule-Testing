@@ -26,7 +26,7 @@ Testing OS command injection attack on vulnerable application with OWASP CRS && 
     2. Install xvwa app and COnfigure it with database.
     3. start testing the XVWA app for OS commands injection.
     
- **Test OS Command injection attack on OWASP CRS**
+ **Testing OS Command injection attack on OWASP CRS**
     
      Note: We can use && or | or ; to pipe the command to execute.
      Include the OWASP CRS on apache config:
@@ -42,7 +42,7 @@ Testing OS command injection attack on vulnerable application with OWASP CRS && 
      payloads from execution on server.
      Check the demo video to know more :)
  
- **Test OS Command injection attack on CWAF Ruleset**
+ **Testing OS Command injection attack on CWAF Ruleset**
     
      Note: We can use && or | or ; to pipe the command to execute.
      Include the CWAF ruleset on apache config:
